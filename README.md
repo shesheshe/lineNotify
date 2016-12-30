@@ -1,4 +1,4 @@
-### LINE Notify API    
+### LINE Notify API  #  
  
 前言:      
   - 假如你想推播訊息給使用者, 不一定要申請 line chatbot, 也可以試試line的另一個服務 line notify (^-^)      
